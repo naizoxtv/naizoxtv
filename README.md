@@ -27,7 +27,8 @@
 - 🎯 Mon objectif ? Comprendre les bases de tout sans me limiter à une seule spécialité.  
 - 📚 Je partage mes connaissances avec des tutoriels et des projets techniques.  
 - 🛠 J’expérimente et crée des petits outils tech, toujours en quête d’apprentissage.  
-- 🚀 Envie d’échanger ou de suivre mes projets ? Reste connecté !  
+- 🚀 Envie d’échanger ou de suivre mes projets ? Reste connecté !
+- 📭 Contactez-moi par mail : [naizox_official@proton.me](mailto:naizox_official@proton.me)
 <!--End Intro-->  
 
 
