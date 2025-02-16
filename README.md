@@ -1,4 +1,4 @@
-![banner](./assets/banner.jpg)
+![banner](./assets/ba)
 <h1 align ="center">Salut, je suis naizox</h1>
 <h3 align = "center"><strong> </h3>
   
