@@ -14,7 +14,6 @@
 </p>
 <br>
 
-<img src = "https://i.imgur.com/yb4hY6S.png" align ="right" width = 50%>
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ À propos de moi<b></h2>
 <ul>
