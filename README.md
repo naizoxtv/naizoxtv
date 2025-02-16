@@ -26,11 +26,7 @@
 </div>
 <br>
 <br>  
-<br>  
-<br>  
-<br>  
-<br>  
-<br>  
+<br> 
 
 
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
@@ -49,7 +45,6 @@
 <br>
 <br>  
 <br>  
-<img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
 <h2  > Rejoignez-nous maintenant</h2>
 
@@ -63,7 +58,7 @@
 <br>  
 <br>  
 <br>  
-<br>  
+<br>
 </div>
 <br>
 
