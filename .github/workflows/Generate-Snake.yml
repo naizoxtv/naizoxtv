@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs daily
 
+permissions:
+  contents: write  # <-- Donne la permission d'écrire dans le repo
+
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
@@ -17,16 +20,16 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: chaitanya-pratap-singh
+          github_user_name: naizoxtv
           outputs: |
             assets/github-snake.svg
-             assets/github-snake-dark.svg?palette=github-dark
-             assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-             
+            assets/github-snake-dark.svg?palette=github-dark
+            assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
       - name: Commit and Push
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "actions@github.com"
           git add -A
           git commit -m "Update snake animation" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/naizoxtv/naizoxtv.git
+          git push
