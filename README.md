@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="[https://github.com/naizoxtv/naizoxtv/blob/main/assets/banner.jpg" />
+<img src=".assets/banner.jpg" />
 
   
 <h1 align ="center">Salut, je suis naizox</h1>
