@@ -4,7 +4,7 @@
  
 </p align="center">
 <img src="[https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png](https://github.com/naizoxtv/naizoxtv/blob/main/assets/banner.jpg)" />
-<p align="center">
+
   
 <h1 align ="center">Salut, je suis naizox</h1>
 <h3 align = "center"><strong> </h3>
