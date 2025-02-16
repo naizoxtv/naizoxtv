@@ -1,5 +1,5 @@
 
-<img src="assets/banner.jpg" />
+<img src="https://raw.githubusercontent.com/naizoxtv/naizoxtv/refs/heads/main/assets/banner.jpg" />
 
   
 <h1 align ="center">Salut, je suis naizox</h1>
