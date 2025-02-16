@@ -8,8 +8,10 @@
 <p align="center">
     <a href="https://www.youtube.com/@naizox07?sub_confirmation=1">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://discord.gg/e4wd2xZ68Q" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/1297571708529807452?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://discord.gg/e4wd2xZ68Q" >
+    <img src="https://komarev.com/ghpvc/?username=naizoxtv&label=Profile%20views&color=000D62&style=for-the-badge&logo=star"/></a>
   </p>
 </p>
 <br>
