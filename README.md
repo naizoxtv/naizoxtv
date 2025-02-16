@@ -15,9 +15,10 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ À propos de moi<b></h2>
 <ul>
-<li>Développement web : petits projets et expérimentations.</li>
-<li>Cybersécurité & hacking éthique : scripts, tests et apprentissage des concepts clés.💻</li>
-<li>Automatisation & bots Discord : création de systèmes interactifs et gestion avancée.</li>
+<li>J’explore constamment l’informatique et j’aime partager mes découvertes.</li>
+<li>Passionné par le développement et la cybersécurité 💻</li>
+<li>Dans mon temps libre, je crée des automatisations et j’expérimente en tech.</li>
+<li>📭 Contacte-moi par mail : naizox_official@proton.me</li>
 <ul>
 </div>
 <br>
