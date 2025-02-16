@@ -1,5 +1,5 @@
 
-<img src="./assets/banner.jpg" />
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
 
   
 <h1 align ="center">Salut, je suis naizox</h1>
