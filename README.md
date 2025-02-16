@@ -13,12 +13,11 @@
 
 <img src = "https://i.imgur.com/yb4hY6S.png" align ="right" width = 50%>
 <div align = left width = 50%>
-<h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
+<h2 style="font-size:30px"><b> 🙋🏻‍♂️ À propos de moi<b></h2>
 <ul>
-<li>I'm constantly learning, and I like to share my knowledge</li>
-<li>I'm a student in computer engineering💻</li>
-<li>In my spare time, I'm a designer</li>
-<li>📭 Reach me at my mail law_official@protonmail.com</li>
+<li>Développement web : petits projets et expérimentations.</li>
+<li>Cybersécurité & hacking éthique : scripts, tests et apprentissage des concepts clés.💻</li>
+<li>Automatisation & bots Discord : création de systèmes interactifs et gestion avancée.</li>
 <ul>
 </div>
 <br>
