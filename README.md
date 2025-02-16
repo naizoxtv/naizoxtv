@@ -26,8 +26,7 @@
 <ul>
 </div>
 <br>
-<br>  
-<br>  
+
 
 
 <h2 style="font-size:30px" align ="left" width = 150%><u>Tools and Technologies</u></h2>
@@ -57,12 +56,9 @@
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/naizoxtv)
 <br>  
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/naizoxtv)
-<br>  
-<br>  
-<br>  
-<br>  
+<br>   
 </div>
-<br>
+
 
 ## 📊 Mes statistiques Github
 
