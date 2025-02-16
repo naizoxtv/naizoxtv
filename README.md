@@ -69,10 +69,6 @@ https://lawyt.sellix.io)
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naizoxtv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=react&bg_color=0D1117">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=naizoxtv&show_icons=true&theme=react&bg_color=0D1117" />
-</p> 
-
 ##
 
 <picture>
