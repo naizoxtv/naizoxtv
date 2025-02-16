@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/jgNwkmt.jpg)
+![banner](./assets/banner)
 <h1 align ="center">Salut, je suis naizox</h1>
 <h3 align = "center"><strong> </h3>
   
