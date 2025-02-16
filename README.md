@@ -90,5 +90,7 @@ https://lawyt.sellix.io)
   
  
 
-----
-README Credit: [Chaitanya-Pratap-Singh](https://github.com/chaitanya-pratap-singh)  
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
