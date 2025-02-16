@@ -70,6 +70,18 @@
 
 <p align="center">
 
+<!-- YOUTUBE:START -->
+<!-- 
+<table><tr><td><a href="LIEN_DE_TA_VIDEO"><img width="140px" src="LIEN_DE_LA_MINIATURE"></a></td>
+<td><a href="LIEN_DE_TA_VIDEO">TITRE_DE_TA_VIDEO</a><br/>DATE_DE_PUBLICATION</td></tr></table>
+-->
+<!-- 
+<td><a href="https://www.youtube.com/watch?v=qrSWWU9Ddjo">Make your SPOTIFY LOOK MODERN - Fluent Theme</a><br/>Feb 25, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QGo---Fn9wc"><img width="140px" src="https://i.ytimg.com/vi/QGo---Fn9wc/mqdefault.jpg"></a></td>
+-->
+<!-- YOUTUBE:END -->
+
+
 </p>
   
  
