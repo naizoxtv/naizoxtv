@@ -37,7 +37,7 @@
 <br>
 <img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
-<h2  > Join US Now</h2>
+<h2  > Rejoignez-nous maintenant</h2>
 
 [<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/laaw_tutorials)
 <br>  
@@ -53,7 +53,7 @@ https://lawyt.sellix.io)
 </div>
 <br>
 
-## 📊 My Github Stats
+## 📊 Mes statistiques Github
 <p align="center">
   <br/>
   <img  src = "https://github-readme-stats.vercel.app/api?username=naizoxtv&show_icons=true&theme=radical&line_height=27">
@@ -72,21 +72,9 @@ https://lawyt.sellix.io)
 
 #
 
-  ## ❤ Latest YouTube Videos
+  ## ❤ Dernières vidéos YouTube
 
 <p align="center">
-
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qrSWWU9Ddjo"><img width="140px" src="https://i.ytimg.com/vi/qrSWWU9Ddjo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qrSWWU9Ddjo">Make your SPOTIFY LOOK MODERN - Fluent Theme</a><br/>Feb 25, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QGo---Fn9wc"><img width="140px" src="https://i.ytimg.com/vi/QGo---Fn9wc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QGo---Fn9wc">TOP 5 ChatGPT Extensions &lpar;2023&rpar;</a><br/>Feb 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zQK1onDH4NM"><img width="140px" src="https://i.ytimg.com/vi/zQK1onDH4NM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zQK1onDH4NM">Manage ALL Your APPs in A SINGLE ONE</a><br/>Feb 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">Make Your Discord LOOK MODERN- Fluent Theme</a><br/>Aug 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA">How to EASILY Organize your Discord DM&#39;s</a><br/>Aug 16, 2022</td></tr></table>
-<!-- YOUTUBE:END -->
 
 </p>
   
