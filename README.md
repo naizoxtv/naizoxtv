@@ -20,15 +20,16 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ À propos de moi<b></h2>
   
+
 <!--Start Intro-->               
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
-<!--End Intro-->
+- 💻 Passionné par l’informatique et avide de découvertes !  
+- 🔍 J’explore plusieurs domaines : développement web, cybersécurité, hacking éthique, automatisations et bots Discord.  
+- 🎯 Mon objectif ? Comprendre les bases de tout sans me limiter à une seule spécialité.  
+- 📚 Je partage mes connaissances avec des tutoriels et des projets techniques.  
+- 🛠 J’expérimente et crée des petits outils tech, toujours en quête d’apprentissage.  
+- 🚀 Envie d’échanger ou de suivre mes projets ? Reste connecté !  
+<!--End Intro-->  
+
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -39,17 +40,9 @@
 
 <h2 style="font-size:30px" align ="left" width = 100%><u>🖥️ Outils et technologies</u></h2>
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion"/>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Discord.js](https://img.shields.io/badge/discord.js-javascript-blue?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-282C34?style=for-the-badge&logo=unrealengine) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-grey?style=for-the-badge&logo=archlinux) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian) ![OpenMediaVault](https://img.shields.io/static/v1?style=for-the-badge&message=openmediavault&color=222222&logo=openmediavault&logoColor=5DACDF&label=) ![OpenMediaVault](https://img.shields.io/static/v1?style=for-the-badge&message=openmediavault&color=222222&logo=openmediavault&logoColor=5DACDF&label=) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A6D?style=for-the-badge&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) 
+
 </p>
 <div>
 <br>
@@ -57,15 +50,13 @@
 ## 📊 Mes statistiques Github
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naizoxtv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=naizoxtv&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=naizoxtv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=naizoxtv&show_icons=true&theme=react&line_height=27&bg_color=0D1117">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naizoxtv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=react&bg_color=0D1117">
 </div>
 
 ##
 
-<picture>
+<picture align=center>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake.svg" />
