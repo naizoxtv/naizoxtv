@@ -41,10 +41,7 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
-<br>
-<br>  
-<br>  
+</p>  
 <img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
 <br>
