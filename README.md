@@ -54,9 +54,6 @@
 <br>  
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LawOff)
 <br>  
-[<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-6a3ce2?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
-https://lawyt.sellix.io)
-<br>  
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <br>  
 </div>
