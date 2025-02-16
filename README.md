@@ -46,7 +46,7 @@
 <br>
 <br>  
 <br>  
-<img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 40%>
+<img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
 <h2  > Rejoignez-nous maintenant</h2>
 
