@@ -55,8 +55,9 @@ https://lawyt.sellix.io)
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-    <a href="https://github.com/naizoxtv/github-readme-stats"><img alt="LawOff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naizoxtv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naizoxtv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
   <br/>
 </p>
 
