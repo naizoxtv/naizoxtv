@@ -70,7 +70,7 @@ https://lawyt.sellix.io)
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=naizoxtv&show_icons=true&locale=en&theme=react&bg_color=0D1117" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=naizoxtv&show_icons=true&theme=react&bg_color=0D1117" />
 </p> 
 
 ##
