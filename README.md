@@ -52,7 +52,7 @@
 
 <div align=center>
   <img  src = "https://github-readme-stats.vercel.app/api?username=naizoxtv&show_icons=true&theme=react&line_height=27&bg_color=0D1117">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naizoxtv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=react&bg_color=0D1117">
+  <img src = "">
 </div>
 
 ##
