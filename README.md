@@ -93,11 +93,16 @@
 </picture>
 
 
-#
+
 
   ## ❤ Dernières vidéos YouTube
 
 <p align="center">
+<table><tr><td><a href="https://www.youtube.com/watch?v=aPoRQ0hxvc4"><img width="140px" src="https://i.ytimg.com/vi/AIGLciIdd20/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aPoRQ0hxvc4">How to Extract Your Discord Token Easily (Educational Guide)</a><br/>Feb 20, 2025</td></tr></table>
+
+<table><tr><td><a href="https://www.youtube.com/watch?v=AIGLciIdd20"><img width="140px" src="https://i.ytimg.com/vi/AIGLciIdd20/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AIGLciIdd20">Log in to Discord Using Your Token (Educational Guide)</a><br/>Feb 20, 2025</td></tr></table>
 
 <!-- YOUTUBE:START -->
 <!-- 
